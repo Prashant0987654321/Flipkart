@@ -1,0 +1,11 @@
+
+Public class Opp(int 0){
+}
+
+For(i=0; i>1){
+}
+
+ i=integer;
+     
+ i=10;
+
